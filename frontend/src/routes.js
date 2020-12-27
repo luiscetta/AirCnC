@@ -5,7 +5,7 @@ import Login from './pages/Login';
 import Dashboard from './pages/Dashboard';
 import New from './pages/New';
 
-export default function Routes () {
+export default function Routes() {
     return (
       <BrowserRouter>
         <Switch>
